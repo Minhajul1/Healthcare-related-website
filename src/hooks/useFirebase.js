@@ -1,11 +1,11 @@
-import { useState } from "react/cjs/react.development"
+import { useState } from "react"
 import { getAuth, signInWithPopup, GoogleAuthProvider,onAuthStateChanged,signOut } from "firebase/auth";
 import { useEffect } from "react";
 import initializeAuthentication from "../Firebase/firebase.init";
 
 initializeAuthentication();
 const useFirebase = () => {
-    const [user, setUser] = useState({});
+    const [user, setUser] = useState([]);
 
     const auth = getAuth();
     const googleProvider = new GoogleAuthProvider();
