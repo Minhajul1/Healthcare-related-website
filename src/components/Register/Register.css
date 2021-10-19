@@ -1,0 +1,9 @@
+.register-container{
+    height: 450px;
+}
+.register-form{
+    background-color: rgb(175, 200, 224);
+    margin: 50px;
+    padding: 20px;
+    border-radius: 10px;
+}

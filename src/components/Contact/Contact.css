@@ -1,0 +1,15 @@
+.contact-container{
+    display: flex;
+    height: 450px;
+}
+.contact-form{
+    background-color: rgb(128, 204, 204);
+    width: 100%;
+    margin: 60px;
+    border-radius: 10px;
+}
+.contact-details{
+    width: 100%;
+    margin-top: 50px;
+    padding: 40px;
+}

@@ -1,0 +1,9 @@
+.footer{
+    background-color: black;
+    color: blanchedalmond;
+    padding: 5px;
+}
+.footer-icon .fab{
+    font-size: 30px;
+    padding: 7px;
+}

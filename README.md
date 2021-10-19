@@ -1,70 +1,15 @@
-# Getting Started with Create React App
+# Online Healthcare Services
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+My live Website link: 
 
-## Available Scripts
+Health services you can access online. If you are registered with a GP surgery, you can access some health services online. You may be able to: contact your GP for advice and support; order repeat prescriptions; see parts of your health record, including information about medicines, vaccinations.
 
-In the project directory, you can run:
+*  Home Health & Hospice provides a variety of home health care services to those living in the area. We are able to assist you with skilled nursing, physical therapy, and speech therapy services, delivered by experienced, caring professionals.
 
-### `npm start`
+*  We are also able to provide a home health aide for patients that need assistance with the activities of daily living. Our company can also connect you with a social worker who can help locate and coordinate the services that you or a family member may require. Call us to make an appointment.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+* Our company also provides hospice care services to those who have a terminal diagnosis and desire only palliative care. We provide this service in the patient's home or in a long term care facility.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+*  Hospice services can include skilled nursing care, a home health aide, social worker assistance, spiritual guidance, and bereavement services for the family.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+* Home health care and hospice services may be a little challenging to navigate. When it comes to setting up services, we will support you and assist you in selecting the appropriate level of care if you need that type of help.

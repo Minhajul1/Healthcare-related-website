@@ -1,0 +1,9 @@
+.visited-data-card{
+    background-color: lightgray;
+    border-radius: 5px;
+    padding: 5px;
+}
+.visited-data-card img{
+    height: 200px;
+    width: 100%;
+}

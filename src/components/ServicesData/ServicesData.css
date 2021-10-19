@@ -1,0 +1,18 @@
+.service-data-card{
+    background-color: lightgray;
+    border-radius: 5px;
+    padding: 5px;
+}
+.service-data-card img{
+    height: 200px;
+    width: 100%;
+}
+.service-data-card button{
+    background-color: rgb(224, 181, 173);
+    color: black;
+    padding: 15px;
+    border: none;
+    border-radius: 20px;
+    font-size: 15px;
+    font-weight: bold;
+}

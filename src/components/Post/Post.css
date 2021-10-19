@@ -1,0 +1,20 @@
+.post-container{
+    background-color: rgb(230, 200, 157);
+    padding: 20px;
+}
+.first-post{
+    display: flex;
+    margin: 20px;
+}
+.first-post p{
+    margin-top: 80px;
+    padding-left: 30px;
+}
+.second-post{
+    display: flex;
+    margin: 20px;
+}
+.second-post p{
+    margin-top: 100px;
+    padding-right: 30px;
+}

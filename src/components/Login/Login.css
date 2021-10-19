@@ -1,0 +1,9 @@
+.login-container{
+    height: 450px;
+}
+.login-form{
+    background-color: rgb(182, 241, 243);
+    margin: 50px;
+    padding: 20px;
+    border-radius: 10px;
+}

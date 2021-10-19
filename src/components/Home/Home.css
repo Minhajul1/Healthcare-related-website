@@ -1,0 +1,23 @@
+.banner{
+    display: flex;
+    background-color: rgb(182, 212, 212);
+    justify-content: center;
+    margin: 25px;
+    border-radius: 10px;
+}
+.banner img{
+    width: 450px;
+    height: 450px;
+    margin-right: 50px;
+}
+.banner .h-tag{
+    margin-top: 150px;
+    margin-left: 50px;
+}
+.home-card{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 25px;
+    margin: 10px;
+    padding: 20px;
+}

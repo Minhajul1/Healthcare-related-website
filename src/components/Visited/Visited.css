@@ -1,0 +1,13 @@
+.visited-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 25px;
+    margin: 10px;
+    padding: 20px;
+}
+.appoinment-form{
+    background-color: blanchedalmond;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
